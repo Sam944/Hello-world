@@ -13,3 +13,5 @@ for i in elements{
 if i == 0
 print(elements[i]+1);
 }
+
+Three years later I've become autotester
